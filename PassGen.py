@@ -1,4 +1,4 @@
-#========FURRO404========#
+#=========FURRO404=========#
 #PassGen.py
 #Generate a string of random chars using ASCII
 import random
@@ -34,4 +34,4 @@ while True:
         print(f"Password {x}: {password}")
         
     print("\n\n")
-#========FURRO404========#
+#=========FURRO404=========#
